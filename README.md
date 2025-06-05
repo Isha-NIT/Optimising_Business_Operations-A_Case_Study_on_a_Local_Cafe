@@ -2,7 +2,7 @@
 
 The project aims to improve the operational performance of **Bihan Canteen**, a small food outlet located on the NIT Raipur campus, using basic business analytics and data-driven techniques.
 
----
+
 
 ## Project Objective
 
@@ -12,7 +12,7 @@ To identify and address three key challenges:
 2. **Order delays and uncollected food during peak hours**
 3. **Lack of menu updates based on customer preferences**
 
----
+
 
 ## Problem-Solving Approach
 
@@ -32,7 +32,7 @@ To identify and address three key challenges:
   - Cross-tabulation (e.g., time vs. order delays)
   - Feedback sentiment mapping
 
----
+
 
 ## Deliverables
 
@@ -42,7 +42,7 @@ To identify and address three key challenges:
 - `report/`: Executive summary and analysis report (PDF)
 - `video/`: Short video interaction with business owner 
 
----
+
 
 ## Expected Outcome
 
@@ -51,7 +51,7 @@ To identify and address three key challenges:
 - Refresh menu offerings based on actual preferences
 - Enhance operational efficiency and profitability
 
----
+
 
 ## Technologies Used
 
@@ -60,7 +60,7 @@ To identify and address three key challenges:
 - `Python`
 - `Canva` / `PowerPoint` for visual storytelling
 
----
+
 
 ## Timeline
 
@@ -70,7 +70,7 @@ The project is conducted over a 3-month period with phases:
 3. Descriptive analytics
 4. Reporting & recommendation drafting
 
----
+
 
 ## Acknowledgements
 
